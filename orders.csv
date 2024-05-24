@@ -1,0 +1,10 @@
+id,name,address,description,date,price,completed
+1,nikos,amalias 36,XL Cappuccino Latte semi sweet,2024/01/9,3.50,1
+2,anna,thessalonikis 286,Fredo Cappucino sweet,2024/01/10,2.50,1
+3,yanni,thessalonikis 286,Fredo Espresso sweet,2024/01/16,2.50,0
+4,jojo,kypseli,15xCups of your strongest Coffee,2024/01/17,100.0,0
+5,nikos,amalias 36,XL Cap Espresso sweet,2024/01/17,3.50,0
+6,nikos,amalias 36,Cap semi,2024/01/17,2.50,0
+7,nikos,amalias 36,Espresso semi,2024/01/17,3.0,0
+8,maria,athens,Greek Coffee semi,2024/01/18,2.5,1
+9,vaios,athens,FE no sugar,2024/02/29,2.5,1
